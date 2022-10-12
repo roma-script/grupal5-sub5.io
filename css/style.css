@@ -6,9 +6,10 @@ h1{
 #carousel {
     border: solid red 3px;
     width:fit-content;
-    align-content: center;  
+    margin-left: 500px;
     text-align: center;
 }
+   
 
 .personalized{
     text-align: center !important;
