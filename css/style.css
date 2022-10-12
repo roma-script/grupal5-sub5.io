@@ -3,6 +3,9 @@ h1{
     font-size: 30px;
 }
 
+h3 {
+    border: solid red 3px;
+}
 
 .personalized{
     text-align: center !important;
