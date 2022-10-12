@@ -3,7 +3,9 @@ h1{
     font-size: 30px;
 }
 
-
+h3.personalized {
+  border: solid red 2px;
+}
    
 
 .personalized{
